@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 Flask
 scikit-learn
 pandas
 numpy
 nltk
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+>>>>>>> ef19396ea297263d8d88de2b757b851226bc4fc4
